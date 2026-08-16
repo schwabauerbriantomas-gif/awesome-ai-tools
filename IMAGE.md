@@ -17,7 +17,7 @@ A curated list of AI tools for image processing, generation, editing, and enhanc
 - **[DALL·E](https://openai.com/dall-e/)** - Generates realistic images from text descriptions using deep learning models.
 - **[Artbreeder](https://www.artbreeder.com/)** - AI tool for creating and blending artworks, portraits, and landscapes through generative adversarial networks.
 - **[Runway ML](https://runwayml.com/)** - A creative toolkit that enables artists to generate images, videos, and models using AI.
-
+\n- **[Vuupta](https://vuupta.com)** - AI platform to generate marketing images, edit them, and produce promo videos in one place.\n
 ## Image Editing
 
 - **[DeepArt](https://deepart.io/)** - AI-driven tool that transforms photos into artworks by mimicking the style of famous artists.
